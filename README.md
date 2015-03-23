@@ -4,4 +4,4 @@
 ###【参考URL】
 LWF wiki :<http://lwf-users.org/>
 
-SlideShare :
+SlideShare :<http://www.slideshare.net/NaokiYokota/11-cocos2dx-cocos2dxlwf>
